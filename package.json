@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-inherited-property-names",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Return an array of an object's inherited enumerable and non-enumerable property names.",
   "license": "Apache-2.0",
   "author": {
